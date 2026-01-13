@@ -40,6 +40,10 @@ export const metadata: Metadata = {
     index: true,
     follow: true,
   },
+  alternates: {
+    canonical: config.site,
+  },
+  publisher: config.author,
 };
 
 const inter = Inter({
