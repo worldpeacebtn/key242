@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://faiq-khokhar-dev.vercel.app/sitemap.xml
