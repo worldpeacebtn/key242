@@ -1,12 +1,14 @@
 const config = {
-  title: "M. Faiq Khokhar | Full-Stack Developer",
+  title: "X42 | Division X42",
   description: {
-    long: "Explore the portfolio of Faiq K., a full-stack developer and creative technologist specializing in interactive web experiences, 3D animations, and innovative projects. Discover my latest work, including Infin Global.io, BlockMed Pro, T-OTP based Authentication, AI Recommendation System, and more. Let's build something amazing together!",
+    long: "Explore X42, a let's rebuild our system together!",
     short:
-      "Discover the portfolio of Faiq K., a full-stack developer creating interactive web experiences and innovative projects.",
+      "Discover PROJEXT 42 - the guide to be and stay alive!",
   },
   keywords: [
-    "Faiq Khokhar",
+    "PROJEXT 42",
+    "X42",
+    "worldpeace",
     "portfolio",
     "full-stack developer",
     "creative technologist",
@@ -67,20 +69,20 @@ const config = {
     "Vim",
     "Vercel",
   ],
-  author: "Faiq K.",
-  email: "faiq.khokhar06@gmail.com",
-  site: "https://faiq-khokhar-dev.vercel.app",
+  author: "X42",
+  email: "projext42@proton.me",
+  site: "https://x42.vercel.app",
 
   // for github followers button
-  githubUsername: "Faiq-Khokhar",
+  githubUsername: "divisionx42",
 
   get ogImg() {
     return this.site + "/assets/seo/og-image.png";
   },
   social: {
-    upwork: "https://www.upwork.com/freelancers/~01b862b354cdf9d71b",
-    linkedin: "https://www.linkedin.com/in/m-faiq-khokhar/",
-    github: "https://github.com/Faiq-Khokhar",
+    upwork: "https://www.upwork.com/freelancers/~x42",
+    linkedin: "https://www.linkedin.com/in/x42/",
+    github: "https://github.com/divisionx42",
   },
 };
 export { config };

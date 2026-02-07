@@ -185,7 +185,7 @@ function ElasticCursor() {
 
   useEffect(() => {
     if (!jellyRef.current) return;
-    jellyRef.current.style.height = "2rem"; // "8rem";
+    jellyRef.current.style.height = "35rem"; // "2/8rem";
     jellyRef.current.style.borderRadius = "1rem";
     jellyRef.current.style.width = loadingPercent * 2 + "vw";
   }, [loadingPercent]);

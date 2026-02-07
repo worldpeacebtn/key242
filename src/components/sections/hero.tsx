@@ -40,7 +40,7 @@ const HeroSection = () => {
                       "cursor-default font-display sm:text-xl md:text-xl whitespace-nowrap bg-clip-text "
                     )}
                   >
-                    Hi, I am
+                    DIVISION X  | PROJEXT 42
                     <br className="md:hidden" />
                   </p>
                 </BlurIn>
@@ -76,7 +76,7 @@ const HeroSection = () => {
                       "cursor-default font-display sm:text-xl md:text-xl whitespace-nowrap bg-clip-text "
                     )}
                   >
-                    A Full Stack Web Developer
+                    guide 2 l3t the trut4 2hine
                   </p>
                 </BlurIn>
               </div>
@@ -91,7 +91,7 @@ const HeroSection = () => {
                   <BoxReveal delay={2} width="100%">
                     <Button className="flex items-center gap-2 w-full">
                       <File size={24} />
-                      <p>Resume</p>
+                      <p>Save Our World</p>
                     </Button>
                   </BoxReveal>
                 </Link>
@@ -103,7 +103,7 @@ const HeroSection = () => {
                           variant={"outline"}
                           className="block w-full overflow-hidden"
                         >
-                          Hire Me
+                          START
                         </Button>
                       </Link>
                     </TooltipTrigger>

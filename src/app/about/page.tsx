@@ -38,26 +38,26 @@ import { config } from "@/data/config";
 const CONTACT_LINKS = [
   {
     name: "Email",
-    content: "faiq.khokhar06@gmail.com",
-    href: "mailto:faiq.khokhar06@gmail.com",
+    content: "projext42@proton.me",
+    href: "mailto:projext42@proton.me",
     icon: <FaEnvelope />,
   },
   {
     name: "Phone",
-    content: "+923249419774",
-    href: "https://wa.me/923249419774",
+    content: "+psst",
+    href: "https://wa.me/nicetryfbi",
     icon: <FaPhone />,
   },
-  {
-    name: "LinkedIn",
-    href: "https://www.linkedin.com/in/m-faiq-khokhar/",
-    content: "/m-faiq-khokhar",
-    icon: <FaLinkedin />,
-  },
+//  {
+//    name: "LinkedIn",
+//    href: "https://www.linkedin.com/in/m-faiq-khokhar/",
+//    content: "/m-faiq-khokhar",
+//    icon: <FaLinkedin />,
+//  },
   {
     name: "GitHub",
-    href: "https://github.com/Faiq-Khokhar",
-    content: "/Faiq-Khokhar",
+    href: "https://github.com/divisionx42",
+    content: "/X42",
     icon: <FaGithub />,
   },
 ];
@@ -136,7 +136,7 @@ function Page() {
                 />
               </div>
               <div className="flex flex-col gap-2 items-center text-center sm:items-start sm:text-left xl:items-center xl:text-center">
-                <p className="text-lg sm:text-xl md:text-2xl">M. Faiq Khokhar</p>
+                <p className="text-lg sm:text-xl md:text-2xl">Division X42</p>
                 <div className="text-[11px] sm:text-xs bg-zinc-700 w-fit px-3 py-1 rounded-full">
                   Sr. Full Stack Engineer
                 </div>
@@ -173,7 +173,7 @@ function Page() {
             <div className="space-y-4 sm:space-y-6">
               <h1 className="text-2xl sm:text-3xl lg:text-4xl">About me</h1>
               <p className="leading-relaxed text-sm sm:text-base text-zinc-200">
-                Hey there! I&apos;m Faiq K., a Fullstack developer passionate about creating meaningful digital experiences. With great in Web development, I thrive on turning ideas into reality through coding and design. My journey began with a fascination for technology and a drive to make a positive impact.
+                Hey there! We&apos;re Divison X42, a dev team passionate about creating meaningful digital experiences. With great in Web development, I thrive on turning ideas into reality through coding and design. My journey began with a fascination for technology and a drive to make a positive impact.
               </p>
               <p className="leading-relaxed text-sm sm:text-base text-zinc-200">
                 When I&apos;m not coding, you can find me playing games, cricket, football, exploring new technologies, or sipping coffee while brainstorming my next project.
